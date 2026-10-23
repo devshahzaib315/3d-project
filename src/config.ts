@@ -168,9 +168,9 @@ export const config = {
     contact: {
         email: "devservice786@gmail.com",
         github: "https://github.com/devshahzaib315",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/company/devora-hub",
         twitter: "",
-        facebook: "",
+        facebook: "https://www.facebook.com/share/1DrWymrud7/",
         instagram: "https://www.instagram.com/devshahzaib315/"
     },
     skills: {
