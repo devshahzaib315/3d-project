@@ -8,7 +8,7 @@ export const config = {
     social: {
         github: "devshahzaib315",
         email: "devservice786@gmail.com",
-        location: "Lahore, Pakistan"
+        location: "Lahore,dha Pakistan"
     },
     about: {
         title: "About Me",
